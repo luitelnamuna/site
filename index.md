@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to My site
 
-You can use the [editor on GitHub](https://github.com/luitelnamuna/site/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+My Name is Namuna Luitel. I worked as a software developer at PNC Finance.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
